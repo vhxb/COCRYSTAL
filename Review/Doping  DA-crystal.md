@@ -16,7 +16,7 @@ Materails:
 
 #### 2.2. Construction and Characterization of Continuous EmissionAlloy Materials
 **How to choose the doping molecular:**
-> "Due to the similar molecular structures and molecular sizes(Cor (11.79 Å) Pe (11.52 Å)) (Figure S17a,b, Supporting Informa-tion), organic CT alloys have been obtained, in which the Cor andPe molecules can substitute with each other and rendering thepossibility for the construction of organic CT alloys. When two cocrystal components are assembled into an organic CT alloy, the 𝜋–𝜋 interaction and van der Waals forces between molecules areconsidered non-covalent interaction forces.[52]"
+> "Due to the similar molecular structures and molecular sizes(Cor (11.79 Å) Pe (11.52 Å)) (Figure S17a,b, Supporting Informa-tion), organic CT alloys have been obtained, in which the Cor andPe molecules can substitute with each other and rendering the possibility for the construction of organic CT alloys. When two cocrystal components are assembled into an organic CT alloy, the 𝜋–𝜋 interaction and van der Waals forces between molecules areconsidered non-covalent interaction forces.[52]"
 > 
 > "Cocrys-tals with weakly combining capacity but high energy emissionscan be used as donors (Such as o-TCP-TP). The ones with morevital combining capacity and low energy emission can be consid-ered acceptors (Such as p-TCP-Pe)"
 
